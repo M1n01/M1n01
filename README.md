@@ -6,7 +6,7 @@
 
 ## ✨Skills✨
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,c,cpp,python,solidity,rust)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,bootstrap,js,ts,react,c,cpp,python,solidity,rust)](https://skillicons.dev)<br>
 
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nextjs,django,tauri)](https://skillicons.dev)<br>
