@@ -15,4 +15,4 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,nginx,vite,vercel,cloudflare,supabase)](https://skillicons.dev)<br>
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=notion,discord,figma,vim,slack,obsidian)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=notion,discord,figma,vim,obsidian,slack)](https://skillicons.dev)<br>
